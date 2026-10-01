@@ -1,0 +1,6 @@
+# Ignore the folder data
+data/
+
+# Ignore hidden files from the operating system
+.DS_Store
+
